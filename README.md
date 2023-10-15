@@ -1,8 +1,11 @@
-# Pavithiran-s-Personal-Projects
+# Pavithiran's Personal Projects
 
-# Thank you viewing my personal projects
-# My github is in the early stages as of now so i will be adding README files & further instuctions inside each project folder in the coming days.
-# There are 2 folders and one file:
-# - CPS209 project: Includes all the java & class files required to run the project. There is also a text file called "store" that is the main component of the project
-# - CPS412 project: Includes 2 files, a python file & Excel spreadhseet file; python file uses python libraries such as numpy to generate grapghs using data from the spreadsheet for the project & excel sheet has all the responses from the audience
-# - Customize Your Own Colour.py - My very first personal project that is outside coursework/university cirruculum
+Thank you viewing my projects! This repository contains `3 projects`, each in a different folder.
+
+## Overview of the 3 porjects
+
+- **CPS209 project**: Includes all the java & class files required to run the project `MyAudio`. `MyAudio` is a sound management simulator created for my Computer Science II (CPS 209) course. This program, similar to Spoitfy, supports the administration of numerous audio formats, such as music and audiobooks, in a virtual library. It also communicates with a simulated online store to download and manage audio content.
+  
+- **CPS412 project**: Includes 2 files, a python file & Excel spreadhseet file. The python script uses python libraries such as numpy to analyze the data from the speadsheet and generate grapghs to visualize the findings of the survey & excel sheet has all the responses and datat collected from the audience.
+  
+- **Customize Your Own Colour.py** - This is my very first personal project that is outside coursework/university cirruculum! This project showcases a Python desktop application developed with Tkinter, enabling users to create custom RGB color codes through an intuitive and visually appealing GUI. It utilizes object-oriented programming, event-driven techniques, and input validation, ensuring a seamless user experience while enhancing visual communication and user interface understanding.
