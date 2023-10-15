@@ -7,7 +7,14 @@
 - Implemented dynamic content updates through structured text file initialization.
 - Prioritized robust error handling techniques to ensure a smooth user experience.
 
-## Features & Capabilities
+## How to Run the Program:
+
+- Ensure you have installed the most current version of Java JDK
+- Download this folder
+- To start the prgram, run file `MyAudioUI`
+- Use the fatures & commmands below to interact with the simulator.
+
+## Features & Commands
 
 - **STORE**: View contents of the simulated online store.
 - **DOWNLOAD**: Download specific or a range of audio content from the store.
