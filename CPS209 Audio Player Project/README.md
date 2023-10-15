@@ -12,7 +12,7 @@
 - Ensure you have installed the most current version of Java JDK
 - Download this folder
 - To start the prgram, run file `MyAudioUI`
-- Use the fatures & commmands below to interact with the simulator.
+- Use the features & commmands below to interact with the simulator.
 
 ## Features & Commands
 
